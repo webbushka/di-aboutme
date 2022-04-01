@@ -19,11 +19,13 @@ body {
 }
 
 .cards {
-  padding: 0 10px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
+  padding: 0 10px;
+  margin: 20px auto;
+  width: 50%;
 }
 
 .card {
